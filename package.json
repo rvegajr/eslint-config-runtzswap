@@ -1,0 +1,46 @@
+{
+  "name": "@runtzswap-libs/eslint-config-runtzswap",
+  "version": "1.0.0",
+  "description": "Eslint config for Runtzswap",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvegajr/eslint-config-runtzswap.git"
+  },
+  "keywords": [
+    "Crypto",
+    "RuntzCoin"
+  ],
+  "author": "RabbitDoge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rvegajr/eslint-config-runtzswap/issues"
+  },
+  "homepage": "https://github.com/rvegajr/eslint-config-runtzswap#readme",
+  "files": [
+    "lib"
+  ],
+  "private": false,
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.6.0",
+    "@typescript-eslint/parser": "^5.6.0",
+    "eslint-config-airbnb": "^19.0.2",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "jshint": "^2.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "prettier": "^2.1.2"
+  },
+  "peerDependencies": {
+    "eslint": "^7.2.0",
+    "prettier": "^2.1.2"
+  }
+}
