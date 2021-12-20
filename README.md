@@ -1,4 +1,4 @@
-# eslint-config-runtzswap
+# eslint-config-pancake
 
 Pancake Eslint config with:
 
@@ -9,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @runtzswap-libs/eslint-config-runtzswap
+npx install-peerdeps --dev @pancakeswap/eslint-config-pancake
 ```
 
-Add `"extends": "@runtzswap-libs/eslint-config-runtzswap"` to your eslint config file.
+Add `"extends": "@pancakeswap/eslint-config-pancake"` to your eslint config file.
