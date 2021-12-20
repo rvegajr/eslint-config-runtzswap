@@ -1,6 +1,6 @@
 # eslint-config-pancake
 
-Pancake Eslint config with:
+RuntzSwap Eslint config with:
 
 - Airbnb config
 - Typescript
@@ -9,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap/eslint-config-pancake
+npx install-peerdeps --dev @runtzswap-libs/eslint-config-runtzswap
 ```
 
-Add `"extends": "@pancakeswap/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@runtzswap-libs/eslint-config-runtzswap"` to your eslint config file.
