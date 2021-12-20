@@ -1,4 +1,4 @@
-# eslint-config-pancake
+# eslint-config-runtzswap
 
 RuntzSwap Eslint config with:
 
